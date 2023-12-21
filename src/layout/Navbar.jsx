@@ -74,7 +74,7 @@ export default function NavbarSimple() {
     return (
         <div className="sticky top-0 z-10 bg-white rounded-b-xl">
             <Navbar color="" className="rounded-xl bg-yellow-600 mx-auto max-w-screen-xl h-max px-4 py-2 lg:px-8 lg:py-4" >
-                <div className=" flex items-center justify-between text-indigo-800">
+                <div className="flex items-center justify-between text-indigo-800">
                     <Typography
                         as="a"
                         href="#"
